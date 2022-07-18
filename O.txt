@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
+"I’d rather be an optimist and a fool than a pessimist and right." Albert Einstein
+
 Ali
-=======
+
 
 ahmed
 
 Hi !
-
->>>>>>> 31785b6aad6b80446de18a025cb06f874511abad

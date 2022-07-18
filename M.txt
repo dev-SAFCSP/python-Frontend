@@ -1,7 +1,17 @@
 
+hello
+Hi
+=======
+الله يستر 
+hello
+>>>>>>> 0be2b648fe616af5fa34f0ad787154b787624d41
+=======
+
+=======
 Hi How are you ?
 
 Faisal
+>>>>>>> cfc30c2ea3eb19d6c845a340417ab5a551adc20a
 
 الله يستر 
 hello
@@ -16,6 +26,10 @@ hello
 
 
 Emtinan
+<<<<<<< HEAD
+=======
+=======
+
 
 
 
