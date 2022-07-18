@@ -1,3 +1,7 @@
 i
 abdullah
+<<<<<<< HEAD
 lama
+=======
+i
+>>>>>>> 3659d9dc4999bf0e6bf41dbd8322399d0dc78d05
